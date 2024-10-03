@@ -51,6 +51,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="clase-02"/>
 			<item value="ejemplo"/>
 			<item value="clase-01"/>
 		</list>
