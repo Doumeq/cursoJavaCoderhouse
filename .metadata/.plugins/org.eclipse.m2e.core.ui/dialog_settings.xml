@@ -46,11 +46,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.tuhotel"/>
 			<item value="com.coderhouse"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="hotel-abm"/>
 			<item value="clase-02"/>
 			<item value="ejemplo"/>
 			<item value="clase-01"/>
